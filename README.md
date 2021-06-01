@@ -15,5 +15,6 @@
 <li>Store both the data in one collection</li>
 <li>Implement AVRO to tackle issues while upgrading the schema</li>
 <li>Add spring clouid admin on top of Eureka (added) to help with monitoring</li>
+<li> we can implement one generic code for CSV to JSON and then push to topic making the service more generic and pojo free</li>  
 </ul>
 
